@@ -1,4 +1,4 @@
 # N1
-Ca map
-Ca voi
-Ca heo
+Cho muc
+Cho dien
+Cho co
