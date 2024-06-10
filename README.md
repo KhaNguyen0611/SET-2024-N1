@@ -2,6 +2,10 @@
 con cua
 con rong
 con khi
+con hac
+con co
+con ba ba
+
 Meo con
 Meo cha
 Meo me
