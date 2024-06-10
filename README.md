@@ -22,3 +22,7 @@ rồng lân phụng
 con heo
 con soi
 con vit
+
+con ga
+con soi 
+con khung long
