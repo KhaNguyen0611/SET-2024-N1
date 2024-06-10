@@ -5,6 +5,9 @@ con khi
 con hac
 con co
 con ba ba
+con rua
+con ga
+con ma
 
 Meo con
 Meo cha
