@@ -18,3 +18,6 @@ Cho co
 heo gà chó
 gà bò lợn
 rồng lân phụng
+heo gà chó
+gà bò lợn
+rồng lân phụng
