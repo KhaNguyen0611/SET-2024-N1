@@ -6,3 +6,4 @@ Cho muc
 Cho dien
 Cho co
 heo gà chó
+gà bò lợn
