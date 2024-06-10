@@ -1,4 +1,7 @@
 # N1
+con cua
+con rong
+con khi
 Meo con
 Meo cha
 Meo me
