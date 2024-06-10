@@ -30,3 +30,7 @@ con khung long
 con ca
 con ky lan
 con kien
+
+Con quy
+Con cua
+Con rua
