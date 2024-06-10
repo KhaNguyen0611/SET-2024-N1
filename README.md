@@ -20,3 +20,4 @@ gà bò lợn
 rồng lân phụng
 
 con heo
+con soi
